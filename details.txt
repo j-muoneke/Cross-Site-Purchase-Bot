@@ -1,0 +1,13 @@
+t-shirts,yu2dn65yg,
+Jeremiah C. Muoneke,jeremiah.muoneke@gmail.com,07719132511,41 Templar Drive,London,SE28 8PF,
+1234 5678 9012 3456,766,07,2022,
+
+^^^
+
+Enter your site, address and purchase details on the first, second and third lines, in the format below:
+
+Line 1:   ItemType  ,  ItemID ,
+Line 2:   Full Name ,  Email  ,     Tel     , Address Line 1 , Address Line 2 , City , Postcode,
+Line 3:   Card Num  ,   CVV   , ExpiryMonth ,   ExpiryYear   ,
+
+**Without any spaces between them, this was done for clarity**
